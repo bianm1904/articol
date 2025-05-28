@@ -1,0 +1,2 @@
+# articol
+Analiza licență
